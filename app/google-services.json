@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856193657035",
+    "firebase_url": "https://you-track-675e9.firebaseio.com",
+    "project_id": "you-track-675e9",
+    "storage_bucket": "you-track-675e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856193657035:android:95de9898b700f47a",
+        "android_client_info": {
+          "package_name": "com.example.danijax.youtrackmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856193657035-uq0thum4vr6tbtknj6q9a0ghliutqocn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danijax.youtrackmobile",
+            "certificate_hash": "e911b0c81bccd94d4cdc56147039f1236122802b"
+          }
+        },
+        {
+          "client_id": "856193657035-decs20v9pvm8tmbg4tqade7qmfvpohjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VKzRVYFcc9hNMaSDvIfp3RDW4K2uJuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856193657035-decs20v9pvm8tmbg4tqade7qmfvpohjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
